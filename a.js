@@ -1,2 +1,2 @@
-function fn1(){}
+function fn1(a,b){}
 function fn2(){}
